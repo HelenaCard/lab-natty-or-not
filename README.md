@@ -1,51 +1,16 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Sejam bem vindos 👀
-
-Vamos ver um projeto pratico utilizando IA Generativas. Desafio proposto pela DIO.
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# A Jornada da IA: Noções para o novo mercado de trabalho 🌌
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book tem 7 páginas retrata o novo cenário que podemos enfrentar no mercado de trabalho com avanço da inteligência artificial.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[Gamma](https://gamma.app/)** para preparação do livro digital;
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "Gamma" para preparar e realizar os slides do material sobre "O mercado de trabalho e a inteligência artificial". Fazemos uma conta (login) na plataforma e descrevemos o prompts com os comandos necessários para o e-book seguir a linha de raciocínio proposta.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O material apresenta um conteúdo sobre os novos desafios que temos perante as IAs e seu histórico. Além de trazer as oportunidades que podemos obter para seguirmos atualizados e mais produtivos.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+[LINK PARA O E-BOOK AQUI](https://gamma.app/docs/O-mercado-de-trabalho-e-a-inteligencia-artificial-gix28e2v07kdy8z?mode=doc)
